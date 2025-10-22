@@ -39,6 +39,18 @@ export default {
           DEFAULT: "hsl(var(--accent))",
           foreground: "hsl(var(--accent-foreground))",
         },
+        task: {
+          DEFAULT: "hsl(var(--task))",
+          foreground: "hsl(var(--task-foreground))",
+        },
+        mission: {
+          DEFAULT: "hsl(var(--mission))",
+          foreground: "hsl(var(--mission-foreground))",
+        },
+        group: {
+          DEFAULT: "hsl(var(--group))",
+          foreground: "hsl(var(--group-foreground))",
+        },
         popover: {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
